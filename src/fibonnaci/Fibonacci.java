@@ -16,7 +16,7 @@ public class Fibonacci {
       * @return the value of the n-th Fibonacci number fib(n)
       * @throws IllegalArgumentException if n < 0
       */
-     //Test
+     //Test2
      public static long fib(int n) {
          if (n < 0) {
              throw new IllegalArgumentException("Illegal negative value " + n);
